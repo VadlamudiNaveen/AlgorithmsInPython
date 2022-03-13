@@ -19,7 +19,7 @@ Because, i would like to be the best version of myself.
  
 | Data Structures:           | Algorithms :   |
 |----------------------------|----------------|
-|                           |  Bit Masking   |
+|  Stacks                    |  Bit Masking   |
 |  Arrays                   |  DP            | 
 |  Strings                  |  2 Pointer     |
 |  Linked List              |  Merge         |
