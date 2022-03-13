@@ -15,4 +15,18 @@ i try my best to solve via a naive approach, but even then, if i am unable to so
 Then Probably i will, abandon the problem, for some time, and will pick it up later.
 Because, i would like to be the best version of myself.
 
+# Key areas of focus
+ 
+| Data Structures:           | Algorithms :   |
+|----------------------------|----------------|
+|                           |  Bit Masking   |
+|  Arrays                   |  DP            | 
+|  Strings                  |  2 Pointer     |
+|  Linked List              |  Merge         |
+|  Trees(Binary,n-ary,Trie) |  Binary Search | 
+|  Graphs                   |  Hash Table    |
+|  Tries                    |  Recursive     |
+|  Heaps                    |  Reservoir Sampling              |  
+|  B-Trees                  |                |
+|  Sets                     |                |
 
