@@ -32,7 +32,6 @@ Constraints:
 s[i] is either'(' , ')', or lowercase English letter.
 '''
 class Solution:
-    from string import digits
     def minRemoveToMakeValid(self, s: str) -> str:
         res = []
         # O(N) to Build the Stack by following the indexes.
